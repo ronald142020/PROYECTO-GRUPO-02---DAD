@@ -18,4 +18,3 @@
   define( 'DB_NAME', 'denimdb' );        // Set database name
 
 ?>
-
